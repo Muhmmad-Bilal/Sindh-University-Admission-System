@@ -1,0 +1,2 @@
+# Sindh-University-Admission-System
+An admission management system is a digital solution to manage student enrollments in colleges, universities, and training institutions. Educational institutions use Education CRM to distribute inquiries to counselors/admission teams, follow-up with leads, and complete the enrollment process digitally.I have created this project using jdbc Swing.that will help you to learn java
